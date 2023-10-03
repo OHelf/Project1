@@ -1,6 +1,6 @@
-# Project1 (Spring 2023)
+# ROS Project 1 (Spring 2023)
 First repo for ME492 - ROS
-We used the following script to initialize git:
 
-## Setup
-Set up git etc. etc.
+ This project follows the Humble Hawksbill TurtleSim documentation example.
+
+ This project uses TurtleSim to write my initials with turtle vectors.
